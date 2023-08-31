@@ -1,4 +1,4 @@
-﻿# DBMS_Final_Project
+﻿# Database Management Final Project: Online Bookstore
 ## Running the Database
 ### 1) Download mysql and mysql workbench
 Make sure sql is running on your computer, and you have mysql workbench installed to maniplulate the database
